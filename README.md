@@ -12,7 +12,7 @@ Newt's starter
 
 ## 概要
 
-**newt-blog-starter-nuxtjs**
+**newt-blog-starter-nextjs**
 <br />Newtを利用した1カラムのシンプルなブログ
 <br />技術構成： Next.js, TypeScript
 
