@@ -23,11 +23,11 @@ export function Footer({ app }: { app: AppMeta }) {
         </Link>
         <div className={styles.Link}>
           <a
-            href="https://github.com/Newt-Inc/newt-blog-starter-nextjs"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSdXAqYQA8EQw08E-KfBxu2YM8-cp85RBnm5AfiWEbtn8BZX7Q/viewform?usp=sf_link"
             rel="noreferrer noopener"
             target="_blank"
           >
-            GitHub
+            Contact
           </a>
         </div>
       </div>
